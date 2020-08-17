@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "2fd546f3-3877-49be-8cdc-81de45e3e5fc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "5998842-free-png-download-poker-chips-clipart-png-photo-png-red-poker-poker-chips-png-840_629_preview": {
+      "ver": "1.0.4",
+      "uuid": "3de30cc2-182b-4119-abe0-a810827b8fd4",
+      "rawTextureUuid": "2fd546f3-3877-49be-8cdc-81de45e3e5fc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 840,
+      "height": 629,
+      "rawWidth": 840,
+      "rawHeight": 629,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
